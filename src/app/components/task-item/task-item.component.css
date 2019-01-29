@@ -1,0 +1,27 @@
+p {
+    background-color: #404040;
+}
+
+.del {
+    background: #3aa2dd;
+    color: #fff;
+    border: none;
+    padding: 5px 9px;
+    border-radius: 50%;
+    cursor: pointer;
+    float: right;
+}
+
+.del:hover {
+    background: #dd3a50;
+}
+
+.task {
+    background: #404040;
+    padding: 10px;
+    border-bottom: 1px #4c4c4c dotted;
+}
+
+.is-complete {
+    text-decoration: line-through;
+}

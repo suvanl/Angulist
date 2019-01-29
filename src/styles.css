@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    background-color: #262626;
+}
+
+body {
+    font-family: "Arial Nova Light", "Arial Light", Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    color: #fff;
+}
+
+a {
+    color: #e0e0e0;
+    text-decoration: none;
+}
+
+.container {
+    padding: 0 1rem;
+}
+
+.btn {
+    display: inline-block;
+    border: none;
+    background: #3aa2dd;
+    color: #fff;
+    padding: 7px 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #2288c2;
+}

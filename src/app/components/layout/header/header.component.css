@@ -1,0 +1,15 @@
+* {
+    background: #333333;
+}
+
+.header {
+    background: #333333;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+}
+
+.header a {
+    color: #3aa2dd;
+    text-decoration: none;
+}
